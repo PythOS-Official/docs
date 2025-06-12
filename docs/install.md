@@ -69,31 +69,13 @@ Choose **Boot PythOS** to start the system.
 If you want to install PythOS permanently:
 
 1. Boot into Live mode
-2. Launch the installer from the desktop or terminal:
-
-   ```bash
-   sudo pythos-installer
-   ```
-3. Follow on-screen instructions:
+2. Follow on-screen instructions:
 
    * Select target disk
    * Choose automatic or custom partitioning
    * Confirm and install
 
 ⚠️ **Warning**: Installing will erase the selected disk.
-
----
-
-## 🧪 Post-Install Notes
-
-* Default user: `user`
-* Password: `pythos` (change it!)
-* Python preinstalled
-* To update:
-
-  ```bash
-  sudo pythos-update
-  ```
 
 ---
 
