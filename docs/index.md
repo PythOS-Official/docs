@@ -1,12 +1,17 @@
-# Welcome to PythOS
-
-**PythOS** is a lightweight, Python-friendly operating system built for simplicity, performance, and extensibility.
-
-Whether you're a developer, tinkerer, or student, PythOS gives you the tools you need to build, automate, and experiment on a flexible Linux base.
-
-## 🚀 Quick Links
+# Welcome to PythOS Docs
 
 - [Installation](install.md)
-- [How to Use](usage.md)
+- [Usage](usage.md)
 - [Developer Guide](developer-guide.md)
-- [GitHub Repository](https://github.com/pythos-os)
+- API documentation is auto-generated.
+
+```{toctree}
+:caption: Getting Started:
+
+install.md
+usage.md
+
+:caption: Developer:
+
+developer-guide.md
+modules.rst
