@@ -1,0 +1,21 @@
+site_name: PythOS Documentation
+site_url: https://pythos.readthedocs.io/
+repo_url: https://github.com/pythos-os/pythos-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+
+nav:
+  - Home: index.md
+  - Getting Started: install.md
+  - Usage: usage.md
+  - Developer Guide: developer-guide.md
