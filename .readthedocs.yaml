@@ -8,5 +8,6 @@ mkdocs:
 
 python:
   version: 3.10
-  install:
-    - requirements: requirements.txt
+  # If you have a requirements file, uncomment the next line
+  # install:
+  #   - requirements: requirements.txt
