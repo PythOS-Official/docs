@@ -1,16 +1,13 @@
 version: 2
 
-defaults:
-  - version: main
-
 build:
-  os: "ubuntu-22.04"
+  os: ubuntu-22.04          # Required: valid Ubuntu image
   tools:
-    python: "3.10"
+    python: "3.10"          # Required: at least one tool
 
 mkdocs:
   configuration: mkdocs.yml
 
 python:
   install:
-    - requirements: requirements.txt  # remove if you don't have this
+    - requirements: requirements.txt  # optional, if you have dependencies
