@@ -9,8 +9,8 @@ Welcome! This guide walks you through installing **PythOS**, whether you're tryi
 Before installing, make sure your device meets these minimum specs:
 
 * **CPU**: x86\_64 (ARM chips coming soon ~)
-* **RAM**: 512 MiB (4 GiB+ recommended)
-* **Storage**: at least 20 GiB minimum (50 GiB+ recommended)
+* **RAM**: 1 GB (4 GB+ recommended)
+* **Storage**: at least 20 GB minimum (50 GB+ recommended)
 * **Bootable USB**, **DVD-R** or **SD card** (2 GB+)
 * **Internet**: Necessary (As long as you have internet, you're good to go)
 
@@ -85,4 +85,4 @@ If you want to install PythOS permanently:
 
 ---
 
-Need help? Visit the [PythOS GitHub Discussions](https://github.com/pythos-os) or join our community chat (coming soon).
+Need help? Visit the [PythOS GitHub Discussions](https://github.com/PythOS-Official) or [join our community chat](https://discord.gg/aaf7JNVS36).
