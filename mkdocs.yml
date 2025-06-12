@@ -1,7 +1,8 @@
 site_name: PythOS Documentation
 site_url: https://pythos.readthedocs.io/
-repo_url: https://github.com/PythOS/docs
-edit_uri: edit/main/docs/
+repo_url: https://github.com/PythOS-Official/
+repo_name: GitHub
+edit_uri: blob/main/docs/
 
 theme:
   name: material
