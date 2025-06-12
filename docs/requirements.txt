@@ -1,6 +1,0 @@
-sphinx>=5
-myst-parser
-sphinx-rtd-theme
-# optional extras:
-sphinx-autodoc-typehints
-sphinx-copybutton
