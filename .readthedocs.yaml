@@ -1,9 +1,14 @@
+# .readthedocs.yaml (v2)
 version: 2
+
+build:
+  os: ubuntu-22.04         # Required: choose one valid Ubuntu image
+  tools:
+    python: "3.10"         # Required: specify at least one tool
 
 sphinx:
   configuration: docs/conf.py
 
 python:
-  version: 3.10
   install:
     - requirements: docs/requirements.txt
